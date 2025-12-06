@@ -20,17 +20,6 @@ Código sencillo y fácil de modificar para personalizar para otra persona.
 
 Totalmente responsivo de forma básica gracias al centrado y uso de unidades flexibles.
 
-📁 Estructura del proyecto
-📦 proyecto-birthday
-├── index.html
-├── styles.css
-└── images/
-      ├── Peter avatar.png
-      ├── gift-cover.jpg
-      ├── happy.gif
-      ├── hot.gif
-      ├── genius.gif
-
 
 ----
 
@@ -56,19 +45,4 @@ Easy to personalize for any recipient
 
 Basic responsive layout using centered elements and flexible sizing
 
-📁 Project Structure
-📦 birthday-gift
-├── index.html
-├── styles.css
-└── images/
-      ├── Peter avatar.png
-      ├── gift-cover.jpg
-      ├── happy.gif
-      ├── hot.gif
-      ├── genius.gif
-      ├── badass.gif
-      ├── cheers.gif
-      └── (any other images)
-      ├── badass.gif
-      ├── cheers.gif
-      └── (otras imágenes)
+
