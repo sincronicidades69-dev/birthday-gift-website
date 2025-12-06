@@ -6,7 +6,7 @@
 Este proyecto es una pequeña página web creada con HTML y CSS que muestra una felicitación de cumpleaños interactiva.
 Incluye imágenes, efectos hover y un diseño colorido pensado para dedicar a un amigo o familiar.
 
-El proyecto forma parte de una práctica del curso de HTML & CSS.
+El proyecto forma parte de una práctica de un curso de HTML & CSS.
 
 🌟 Características
 
@@ -22,6 +22,7 @@ Totalmente responsivo de forma básica gracias al centrado y uso de unidades fle
 
 
 ----
+
 
 # 🇬🇧 English Version
 
